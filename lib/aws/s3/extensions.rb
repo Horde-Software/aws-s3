@@ -1,4 +1,4 @@
-#encoding: BINARY
+# encoding: BINARY
 #:stopdoc:
 
 class Hash
